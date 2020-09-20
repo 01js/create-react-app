@@ -14,7 +14,7 @@ If you have questions or need help, please ask in [GitHub Discussions](https://g
 ## Quick Overview
 
 ```sh
-npx create-react-app my-app
+create-react-app app --scripts-version @01js/react-scripts
 cd my-app
 npm start
 ```
